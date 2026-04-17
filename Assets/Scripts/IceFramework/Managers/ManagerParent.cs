@@ -1,0 +1,9 @@
+using UnityEngine;
+
+public class ManagerBase : MonoBehaviour
+{
+    private void Awake()
+    {
+        DontDestroyOnLoad(this);
+    }
+}

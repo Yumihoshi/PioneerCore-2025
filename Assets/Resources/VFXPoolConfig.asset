@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7986bdde66f648b7b230911bfee62c26, type: 3}
+  m_Name: VFXPoolConfig
+  m_EditorClassIdentifier: 
+  configList:
+  - prefab: {fileID: 2896277888620690966, guid: 4d742f77b532d7648ae4185c19debf66, type: 3}
+    vfxType: 1
+    defaultCapacity: 20
+    maxCapacity: 100
+    collectionChecks: 1
+    autoRelease: 1
+    lifeTime: 5
+  - prefab: {fileID: 701099469551319075, guid: 1bf7c3b61883d2d4085422e6145595b8, type: 3}
+    vfxType: 2
+    defaultCapacity: 20
+    maxCapacity: 100
+    collectionChecks: 1
+    autoRelease: 1
+    lifeTime: 5
+  - prefab: {fileID: 6997992012540075220, guid: b379839e63948fc408bec9837fc4a457, type: 3}
+    vfxType: 3
+    defaultCapacity: 20
+    maxCapacity: 100
+    collectionChecks: 1
+    autoRelease: 1
+    lifeTime: 5
+  - prefab: {fileID: 2390057254844481589, guid: 09a9b2fc626b71b46af02cbf7b06508b, type: 3}
+    vfxType: 4
+    defaultCapacity: 20
+    maxCapacity: 100
+    collectionChecks: 1
+    autoRelease: 1
+    lifeTime: 5
+  - prefab: {fileID: 7599040443038357027, guid: 6d051dbc2d7d6e34799d45e87fd054a7, type: 3}
+    vfxType: 5
+    defaultCapacity: 20
+    maxCapacity: 100
+    collectionChecks: 1
+    autoRelease: 1
+    lifeTime: 5
+  - prefab: {fileID: 5973535456474739760, guid: 78c3058b755df8c418a7c7968870c9c8, type: 3}
+    vfxType: 6
+    defaultCapacity: 20
+    maxCapacity: 100
+    collectionChecks: 1
+    autoRelease: 1
+    lifeTime: 5
+  - prefab: {fileID: 2197743144921947086, guid: e2e1fcb0ddc2db44d96ce2cb9cb7eaaf, type: 3}
+    vfxType: 7
+    defaultCapacity: 20
+    maxCapacity: 100
+    collectionChecks: 1
+    autoRelease: 1
+    lifeTime: 5
+  - prefab: {fileID: 5706920217659349197, guid: 7835242a3783e5a408494e06885203b8, type: 3}
+    vfxType: 8
+    defaultCapacity: 20
+    maxCapacity: 100
+    collectionChecks: 1
+    autoRelease: 1
+    lifeTime: 10

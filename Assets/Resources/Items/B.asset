@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f288e12d5dfb934bbc2bec0b7cfcae2, type: 3}
+  m_Name: B
+  m_EditorClassIdentifier: 
+  itemName: B
+  itemImage: {fileID: 21300000, guid: 1223ca7d04e5a4ad08a8d648c4e2a09e, type: 3}
+  ItemType: 5
+  stuffItem: {fileID: 11400000, guid: 82c12cf3105b5824ea48b2ae626637bf, type: 2}
+  ComposeItem: {fileID: 11400000, guid: f562329384750b044be41239ad965498, type: 2}
+  UseEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  itemIntroduction: this is B
